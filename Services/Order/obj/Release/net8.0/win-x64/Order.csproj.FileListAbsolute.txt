@@ -1,0 +1,17 @@
+C:\Mac\Home\Documents\dotnet8_launcher_services_sample_20250818_215157\dotnet8_launcher_services_sample_20250818_215157\Services\Order\obj\Release\net8.0\win-x64\Order.csproj.AssemblyReference.cache
+C:\Mac\Home\Documents\dotnet8_launcher_services_sample_20250818_215157\dotnet8_launcher_services_sample_20250818_215157\Services\Order\obj\Release\net8.0\win-x64\Order.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mac\Home\Documents\dotnet8_launcher_services_sample_20250818_215157\dotnet8_launcher_services_sample_20250818_215157\Services\Order\obj\Release\net8.0\win-x64\Order.AssemblyInfoInputs.cache
+C:\Mac\Home\Documents\dotnet8_launcher_services_sample_20250818_215157\dotnet8_launcher_services_sample_20250818_215157\Services\Order\obj\Release\net8.0\win-x64\Order.AssemblyInfo.cs
+C:\Mac\Home\Documents\dotnet8_launcher_services_sample_20250818_215157\dotnet8_launcher_services_sample_20250818_215157\Services\Order\obj\Release\net8.0\win-x64\Order.csproj.CoreCompileInputs.cache
+C:\Mac\Home\Documents\dotnet8_launcher_services_sample_20250818_215157\dotnet8_launcher_services_sample_20250818_215157\Services\Order\bin\Release\net8.0\win-x64\Order.exe
+C:\Mac\Home\Documents\dotnet8_launcher_services_sample_20250818_215157\dotnet8_launcher_services_sample_20250818_215157\Services\Order\bin\Release\net8.0\win-x64\Order.deps.json
+C:\Mac\Home\Documents\dotnet8_launcher_services_sample_20250818_215157\dotnet8_launcher_services_sample_20250818_215157\Services\Order\bin\Release\net8.0\win-x64\Order.runtimeconfig.json
+C:\Mac\Home\Documents\dotnet8_launcher_services_sample_20250818_215157\dotnet8_launcher_services_sample_20250818_215157\Services\Order\bin\Release\net8.0\win-x64\Order.dll
+C:\Mac\Home\Documents\dotnet8_launcher_services_sample_20250818_215157\dotnet8_launcher_services_sample_20250818_215157\Services\Order\bin\Release\net8.0\win-x64\Order.pdb
+C:\Mac\Home\Documents\dotnet8_launcher_services_sample_20250818_215157\dotnet8_launcher_services_sample_20250818_215157\Services\Order\bin\Release\net8.0\win-x64\Contoso.Common.dll
+C:\Mac\Home\Documents\dotnet8_launcher_services_sample_20250818_215157\dotnet8_launcher_services_sample_20250818_215157\Services\Order\obj\Release\net8.0\win-x64\Order.csproj.Up2Date
+C:\Mac\Home\Documents\dotnet8_launcher_services_sample_20250818_215157\dotnet8_launcher_services_sample_20250818_215157\Services\Order\obj\Release\net8.0\win-x64\Order.dll
+C:\Mac\Home\Documents\dotnet8_launcher_services_sample_20250818_215157\dotnet8_launcher_services_sample_20250818_215157\Services\Order\obj\Release\net8.0\win-x64\refint\Order.dll
+C:\Mac\Home\Documents\dotnet8_launcher_services_sample_20250818_215157\dotnet8_launcher_services_sample_20250818_215157\Services\Order\obj\Release\net8.0\win-x64\Order.pdb
+C:\Mac\Home\Documents\dotnet8_launcher_services_sample_20250818_215157\dotnet8_launcher_services_sample_20250818_215157\Services\Order\obj\Release\net8.0\win-x64\Order.genruntimeconfig.cache
+C:\Mac\Home\Documents\dotnet8_launcher_services_sample_20250818_215157\dotnet8_launcher_services_sample_20250818_215157\Services\Order\obj\Release\net8.0\win-x64\ref\Order.dll

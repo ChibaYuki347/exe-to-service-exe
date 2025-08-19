@@ -1,0 +1,11 @@
+c:\Mac\Home\Documents\dotnet8_launcher_services_sample_20250818_215157\dotnet8_launcher_services_sample_20250818_215157\Common\Contoso.Common\bin\Release\net8.0\Contoso.Common.deps.json
+c:\Mac\Home\Documents\dotnet8_launcher_services_sample_20250818_215157\dotnet8_launcher_services_sample_20250818_215157\Common\Contoso.Common\bin\Release\net8.0\Contoso.Common.dll
+c:\Mac\Home\Documents\dotnet8_launcher_services_sample_20250818_215157\dotnet8_launcher_services_sample_20250818_215157\Common\Contoso.Common\bin\Release\net8.0\Contoso.Common.pdb
+c:\Mac\Home\Documents\dotnet8_launcher_services_sample_20250818_215157\dotnet8_launcher_services_sample_20250818_215157\Common\Contoso.Common\obj\Release\net8.0\Contoso.Common.GeneratedMSBuildEditorConfig.editorconfig
+c:\Mac\Home\Documents\dotnet8_launcher_services_sample_20250818_215157\dotnet8_launcher_services_sample_20250818_215157\Common\Contoso.Common\obj\Release\net8.0\Contoso.Common.AssemblyInfoInputs.cache
+c:\Mac\Home\Documents\dotnet8_launcher_services_sample_20250818_215157\dotnet8_launcher_services_sample_20250818_215157\Common\Contoso.Common\obj\Release\net8.0\Contoso.Common.AssemblyInfo.cs
+c:\Mac\Home\Documents\dotnet8_launcher_services_sample_20250818_215157\dotnet8_launcher_services_sample_20250818_215157\Common\Contoso.Common\obj\Release\net8.0\Contoso.Common.csproj.CoreCompileInputs.cache
+c:\Mac\Home\Documents\dotnet8_launcher_services_sample_20250818_215157\dotnet8_launcher_services_sample_20250818_215157\Common\Contoso.Common\obj\Release\net8.0\Contoso.Common.dll
+c:\Mac\Home\Documents\dotnet8_launcher_services_sample_20250818_215157\dotnet8_launcher_services_sample_20250818_215157\Common\Contoso.Common\obj\Release\net8.0\refint\Contoso.Common.dll
+c:\Mac\Home\Documents\dotnet8_launcher_services_sample_20250818_215157\dotnet8_launcher_services_sample_20250818_215157\Common\Contoso.Common\obj\Release\net8.0\Contoso.Common.pdb
+c:\Mac\Home\Documents\dotnet8_launcher_services_sample_20250818_215157\dotnet8_launcher_services_sample_20250818_215157\Common\Contoso.Common\obj\Release\net8.0\ref\Contoso.Common.dll

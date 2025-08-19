@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "I2oBrnleGzI=",
+  "success": true,
+  "projectFilePath": "C:\\Mac\\Home\\Documents\\dotnet8_launcher_services_sample_20250818_215157\\dotnet8_launcher_services_sample_20250818_215157\\Services\\Inventory\\Inventory.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\chibayuuki\\.nuget\\packages\\contoso.common\\1.0.0\\contoso.common.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

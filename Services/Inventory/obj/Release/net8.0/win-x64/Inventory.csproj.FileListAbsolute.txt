@@ -1,0 +1,17 @@
+C:\Mac\Home\Documents\dotnet8_launcher_services_sample_20250818_215157\dotnet8_launcher_services_sample_20250818_215157\Services\Inventory\obj\Release\net8.0\win-x64\Inventory.csproj.AssemblyReference.cache
+C:\Mac\Home\Documents\dotnet8_launcher_services_sample_20250818_215157\dotnet8_launcher_services_sample_20250818_215157\Services\Inventory\obj\Release\net8.0\win-x64\Inventory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mac\Home\Documents\dotnet8_launcher_services_sample_20250818_215157\dotnet8_launcher_services_sample_20250818_215157\Services\Inventory\obj\Release\net8.0\win-x64\Inventory.AssemblyInfoInputs.cache
+C:\Mac\Home\Documents\dotnet8_launcher_services_sample_20250818_215157\dotnet8_launcher_services_sample_20250818_215157\Services\Inventory\obj\Release\net8.0\win-x64\Inventory.AssemblyInfo.cs
+C:\Mac\Home\Documents\dotnet8_launcher_services_sample_20250818_215157\dotnet8_launcher_services_sample_20250818_215157\Services\Inventory\obj\Release\net8.0\win-x64\Inventory.csproj.CoreCompileInputs.cache
+C:\Mac\Home\Documents\dotnet8_launcher_services_sample_20250818_215157\dotnet8_launcher_services_sample_20250818_215157\Services\Inventory\bin\Release\net8.0\win-x64\Inventory.exe
+C:\Mac\Home\Documents\dotnet8_launcher_services_sample_20250818_215157\dotnet8_launcher_services_sample_20250818_215157\Services\Inventory\bin\Release\net8.0\win-x64\Inventory.deps.json
+C:\Mac\Home\Documents\dotnet8_launcher_services_sample_20250818_215157\dotnet8_launcher_services_sample_20250818_215157\Services\Inventory\bin\Release\net8.0\win-x64\Inventory.runtimeconfig.json
+C:\Mac\Home\Documents\dotnet8_launcher_services_sample_20250818_215157\dotnet8_launcher_services_sample_20250818_215157\Services\Inventory\bin\Release\net8.0\win-x64\Inventory.dll
+C:\Mac\Home\Documents\dotnet8_launcher_services_sample_20250818_215157\dotnet8_launcher_services_sample_20250818_215157\Services\Inventory\bin\Release\net8.0\win-x64\Inventory.pdb
+C:\Mac\Home\Documents\dotnet8_launcher_services_sample_20250818_215157\dotnet8_launcher_services_sample_20250818_215157\Services\Inventory\bin\Release\net8.0\win-x64\Contoso.Common.dll
+C:\Mac\Home\Documents\dotnet8_launcher_services_sample_20250818_215157\dotnet8_launcher_services_sample_20250818_215157\Services\Inventory\obj\Release\net8.0\win-x64\Inventory.csproj.Up2Date
+C:\Mac\Home\Documents\dotnet8_launcher_services_sample_20250818_215157\dotnet8_launcher_services_sample_20250818_215157\Services\Inventory\obj\Release\net8.0\win-x64\Inventory.dll
+C:\Mac\Home\Documents\dotnet8_launcher_services_sample_20250818_215157\dotnet8_launcher_services_sample_20250818_215157\Services\Inventory\obj\Release\net8.0\win-x64\refint\Inventory.dll
+C:\Mac\Home\Documents\dotnet8_launcher_services_sample_20250818_215157\dotnet8_launcher_services_sample_20250818_215157\Services\Inventory\obj\Release\net8.0\win-x64\Inventory.pdb
+C:\Mac\Home\Documents\dotnet8_launcher_services_sample_20250818_215157\dotnet8_launcher_services_sample_20250818_215157\Services\Inventory\obj\Release\net8.0\win-x64\Inventory.genruntimeconfig.cache
+C:\Mac\Home\Documents\dotnet8_launcher_services_sample_20250818_215157\dotnet8_launcher_services_sample_20250818_215157\Services\Inventory\obj\Release\net8.0\win-x64\ref\Inventory.dll

@@ -1,0 +1,1 @@
+namespace Contoso.Common; public sealed class SystemClock : IClock { public System.DateTimeOffset Now => System.DateTimeOffset.Now; }

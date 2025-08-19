@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Contoso.Common</id>
+    <version>1.0.0</version>
+    <authors>Sample</authors>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <description>Common utilities (sample)</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net8.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="c:\Mac\Home\Documents\dotnet8_launcher_services_sample_20250818_215157\dotnet8_launcher_services_sample_20250818_215157\Common\Contoso.Common\bin\Release\net8.0\Contoso.Common.dll" target="lib\net8.0\Contoso.Common.dll" />
+  </files>
+</package>

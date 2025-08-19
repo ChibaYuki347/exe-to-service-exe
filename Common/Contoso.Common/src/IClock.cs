@@ -1,0 +1,1 @@
+namespace Contoso.Common; public interface IClock { System.DateTimeOffset Now { get; } }

@@ -1,0 +1,1 @@
+# Contoso.Common (sample)
