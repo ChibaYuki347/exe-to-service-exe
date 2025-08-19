@@ -38,6 +38,52 @@ $env:PAUSE_ON_EXIT = '1'
 - dist\Services\Order\Order.exe (+ .deps.json / .runtimeconfig.json)
 - dist\Services\Inventory\Inventory.exe (+ .deps.json / .runtimeconfig.json)
 
+## ディレクトリ構造（主要）
+
+```
+.
+├─ Common/
+│  └─ Contoso.Common/                 # 共通ライブラリ（NuGet 化）
+│     ├─ Contoso.Common.csproj
+│     └─ src/
+│        ├─ IClock.cs
+│        ├─ Retry.cs
+│        └─ SystemClock.cs
+├─ Launcher/
+│  └─ StartLauncher/                  # ランチャー（子プロセス起動）
+│     ├─ StartLauncher.csproj
+│     └─ Program.cs                   # --pause / --no-pause / Explorer自動ポーズ
+├─ Services/
+│  ├─ Order/
+│  │  ├─ Order.csproj                 # PackageReference Contoso.Common
+│  │  └─ Program.cs
+│  └─ Inventory/
+│     ├─ Inventory.csproj             # PackageReference Contoso.Common
+│     └─ Program.cs
+├─ scripts/                           # pack & publish スクリプト
+│  ├─ pack-common.ps1
+│  ├─ pack-common.sh
+│  ├─ restore-and-publish.ps1
+│  └─ restore-and-publish.sh
+├─ local-packages/                    # ローカル NuGet フィード（.nupkg 配置先）
+├─ dist/                              # publish 出力（FDE）
+│  ├─ Launcher/
+│  │  ├─ StartLauncher.exe
+│  │  ├─ StartLauncher.deps.json
+│  │  └─ StartLauncher.runtimeconfig.json
+│  └─ Services/
+│     ├─ Order/
+│     │  ├─ Order.exe
+│     │  ├─ Order.deps.json
+│     │  └─ Order.runtimeconfig.json
+│     └─ Inventory/
+│        ├─ Inventory.exe
+│        ├─ Inventory.deps.json
+│        └─ Inventory.runtimeconfig.json
+├─ nuget.config                       # local-packages を参照
+└─ dotnet8_launcher_services_sample_20250818_215157.sln
+```
+
 ## サンプル出力（実行結果）
 
 ```
